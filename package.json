@@ -1,0 +1,15 @@
+{
+  "name": "homeserver",
+  "version": "1.0.0",
+  "description": "A server to run on a home Mac to launch actions remotely. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "applescript": "^1.0.0",
+    "express": "^4.17.1"
+  }
+}
